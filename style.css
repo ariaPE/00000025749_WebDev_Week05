@@ -1,0 +1,25 @@
+#content {
+	width: auto;
+	padding: auto;
+}
+
+.cboard{
+		background-color: #e6ffe6;
+		padding: 10.5px;
+}
+
+#hapus{
+	padding-top: 10px;
+}
+
+#nama-input{
+	width: 100%;
+}
+
+#history-chat {
+	padding-top: 15px;
+}
+
+#kirim {
+	padding-top: 20px;
+}
